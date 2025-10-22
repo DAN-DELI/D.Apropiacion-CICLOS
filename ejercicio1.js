@@ -1,9 +1,18 @@
-console.log("Números del 1 al 10 y si son pares:");
+// HAYA LOS NUMEROS PRIMOS
 
-// Usamos for para el ciclo y le aplicamos una condición if para verificar si el número es par:
+console.log("===NÚMEROS DEL 1 AL 50 que sean primos:===");
 
-for (let i=1; i <=10; i++) {
-  if (i % 2 === 0) {
-    console.log(`El número ${i} es par`);
+for (let z = 1; z <= 50; z++) {
+  if (esPrimo(z)) {
+  console.log(`${z}`)
   }
-} 
+}
+
+function esPrimo(numero) {
+  for (let z = 2; z < numero; z++) {
+    if (numero % z === 0) {
+      return false;
+    }
+  }
+  return true;
+}
