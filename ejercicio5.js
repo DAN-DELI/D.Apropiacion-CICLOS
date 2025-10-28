@@ -1,4 +1,4 @@
-console.log("\n=== TIENDA DE PRODUCTOS ===");
+console.log("\n===EJERCICIO 5: TIENDA DE PRODUCTOS ===");
 
 let totalCompra = 0;
 

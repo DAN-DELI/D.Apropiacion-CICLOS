@@ -1,4 +1,4 @@
-console.log("\n===TABLA DE MULTIPLICAR===");
+console.log("\n===EJERCICIO 2: TABLA DE MULTIPLICAR===");
 //Ingresa un numero y muestra su tabla de multiplicar del 1 al 12
 
 // Usamos un ciclo while para permitir múltiples entradas. Anidamos un for el cual se encargara de

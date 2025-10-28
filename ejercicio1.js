@@ -1,6 +1,6 @@
 // HAYA LOS NUMEROS PRIMOS
 
-console.log("===NÚMEROS DEL 1 AL 50 que sean primos:===");
+console.log("===EJERCICIO 1: NÚMEROS DEL 1 AL 50 que sean primos:===");
 
 for (let z = 1; z <= 50; z++) {
   if (esPrimo(z)) {

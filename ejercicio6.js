@@ -1,4 +1,4 @@
-console.log("=== 🎯 JUEGO DEL ADIVINADOR ===");
+console.log("\n===EJERCICIO 6: JUEGO DEL ADIVINADOR ===");
 
 // Generamos un número aleatorio entre 1 y 20
 let numeroSecreto = Math.floor(Math.random() * 20) + 1;

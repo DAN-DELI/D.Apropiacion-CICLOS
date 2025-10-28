@@ -1,4 +1,4 @@
-console.log("\n=== CONTADOR DE PARES E IMPARES ===");
+console.log("\n===EJERCICIO 7: CONTADOR DE PARES E IMPARES ===");
 
 let pares = 0;
 let impares = 0;

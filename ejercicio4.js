@@ -1,4 +1,4 @@
-console.log("\n=== PROMEDIO DE NOTAS ===");
+console.log("\n===EJERCICIO 4: PROMEDIO DE NOTAS ===");
 
 for (let i = 1; i <= 5; i++) {
     console.log(`\nEstudiante ${i}:`);

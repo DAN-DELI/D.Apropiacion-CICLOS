@@ -1,4 +1,4 @@
-console.log("\n=== CAJERO AUTOMÁTICO ===");
+console.log("\n===EJERCICIO 3: CAJERO AUTOMÁTICO ===");
 
 const saldoInicial = 500000;
 let saldo = saldoInicial;
